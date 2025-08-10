@@ -1,0 +1,30 @@
+{
+  "process": "Company Incorporation",
+  "uploaded_files": [
+    "uploads\\adgm-ra-resolution-multiple-incorporate-shareholders-LTD-incorporation-v2.docx"
+  ],
+  "checklist_result": {
+    "process": "Company Incorporation",
+    "required_documents": [
+      "Memorandum of Association",
+      "Articles of Association",
+      "Incorporation Application",
+      "UBO Declaration Form",
+      "Register of Directors"
+    ],
+    "detected_documents": [
+      "Incorporation Application"
+    ],
+    "missing_documents": [
+      "Memorandum of Association",
+      "Articles of Association",
+      "UBO Declaration Form",
+      "Register of Directors"
+    ]
+  },
+  "issues": [],
+  "reviewed_paths": [
+    "uploads\\adgm-ra-resolution-multiple-incorporate-shareholders-LTD-incorporation-v2.reviewed.docx"
+  ],
+  "generated_at": "2025-08-08T09:54:06.039943Z"
+}

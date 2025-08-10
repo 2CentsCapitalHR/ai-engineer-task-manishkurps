@@ -1,0 +1,38 @@
+{
+  "process": null,
+  "uploaded_files": [
+    "uploads\\Templates_SHReso_AmendmentArticles-v1-20220107.docx"
+  ],
+  "checklist_result": {
+    "process": null,
+    "required_documents": [],
+    "detected_documents": [
+      "Articles of Association"
+    ],
+    "missing_documents": []
+  },
+  "issues": [
+    {
+      "document": "uploads\\Templates_SHReso_AmendmentArticles-v1-20220107.docx",
+      "section": "Jurisdiction",
+      "snippet": "",
+      "issue": "Jurisdiction clause does not explicitly mention ADGM.",
+      "severity": "High",
+      "suggestion": "Add an ADGM jurisdiction clause (e.g., 'This Agreement shall be governed by the laws of ADGM...').",
+      "rag_contexts": []
+    },
+    {
+      "document": "uploads\\Templates_SHReso_AmendmentArticles-v1-20220107.docx",
+      "section": "Signatures",
+      "snippet": "",
+      "issue": "No signatory block detected.",
+      "severity": "High",
+      "suggestion": "Add signatory block with printed name, signature line, capacity and date.",
+      "rag_contexts": []
+    }
+  ],
+  "reviewed_paths": [
+    "uploads\\Templates_SHReso_AmendmentArticles-v1-20220107.reviewed.docx"
+  ],
+  "generated_at": "2025-08-10T15:43:36.046974Z"
+}

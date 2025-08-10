@@ -1,0 +1,7 @@
+gradio
+python-docx
+docx2txt
+sentence-transformers
+faiss-cpu
+openai
+python-dotenv
